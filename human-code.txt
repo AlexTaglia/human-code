@@ -1,0 +1,28 @@
+É successo di nuovo! la macchina ha un guasto al servosterzo, portarla dal meccanico.
+---------------
+
+1. La macchina ha un guasto al servosterzo mentre sto guidando
+    if riesco a guidare, la porto da meccanico => fine
+    altrimenti chiamo call() i meccanici.
+
+2. Chiamo la mia lista di meccanici (entro 50km)
+    meccanici = [],  (cerco numero di meccanici che sta entro i 50km)
+
+3. Continuo a chiamare meccanici finchè il meccanico risponde
+    while (meccanico !== riponde){
+    call()
+    }
+
+4. il meccanico mi ha risposto
+5. devo dare l'indirizzo.
+6. apro google maps e gli invio la posizione e if > 50km e lui non esce. (ma posso fare un filtro su meccanici)
+7. ricomincio a chiamare finche non trovo il meccanico. 
+8. lo trovo
+9. aspetto l'arrivo
+10. carica la macchina sul carro attrezzi e la porta in officina.
+
+
+
+
+
+
